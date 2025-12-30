@@ -1,0 +1,5 @@
+funcmain() {
+
+    println("Hello world")
+
+}
