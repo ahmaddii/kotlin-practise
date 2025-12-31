@@ -51,7 +51,7 @@ fun main() {
 
     testfunction()
 
-    println(add(10,20))
+    println(add(10,30))
     println(sub(10,20))
 
     testfunction()

@@ -22,7 +22,7 @@ fun main() {
 
     val greetingtoPoint = when (greeting) {
 
-        null -> "Hi hello"
+        null -> "Hi hell"
         else -> greeting
 
     }

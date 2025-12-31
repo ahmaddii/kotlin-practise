@@ -1,7 +1,7 @@
 
 fun printHello() { // declare the basic function which prints hello
 
-    println("Hello World")
+    println("Hello Worl")
 }
 
 fun main() {
