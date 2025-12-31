@@ -18,7 +18,20 @@ fun main() {
    // greeting = "Nah I am Hassan"
    // greeting = "Ahmad g"
 
-    greeting = "Hello khan g"
+    //greeting = "Hello khan g"
+
+    val greetingtoPoint = when (greeting) {
+
+        null -> "Hi hello"
+        else -> greeting
+
+    }
+
+    println(greeting)
+
+        // val greetingtoPrint = if(greeting != null) greeting else "Hi"
+    println(greeting)
+
 
 
 
